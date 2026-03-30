@@ -43,6 +43,16 @@ I build clean and useful things with code.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cgxiaoxin&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
+### Snake Game / 贪吃蛇进行中
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### Contact / 联系方式
