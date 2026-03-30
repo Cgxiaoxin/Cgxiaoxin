@@ -15,15 +15,6 @@ I build clean and useful things with code.
 
 ---
 
-### Skills / 技术栈
-
-- Languages: `[Python]` `[JavaScript/TypeScript]` `[SQL]`
-- Frameworks: `[React/Vue]` `[Node.js]` `[FastAPI/Spring Boot]`
-- Tools: `[Git]` `[Docker]` `[Linux]` `[CI/CD]`
-- Interests: `[AI Apps]` `[Automation]` `[Product Engineering]`
-
----
-
 
 ### Contact / 联系方式
 
@@ -34,9 +25,9 @@ I build clean and useful things with code.
 
 ### Fun Facts / 有趣事实
 
-- I like swimming, ball games, and city walks.  
-  我喜欢游泳、打球和 city walk。
-- The sea always resets my mood and gives me new ideas.  
-  海边总能让我重置状态，也带来新的灵感。
+- Enjoy swimming, playing various ball games, and exploring the city on foot.  
+  喜欢游泳、各类球类运动，也爱 city walk 随意逛逛。
+- The ocean is my ultimate reset button, always sparking fresh inspiration.  
+  大海是我最好的“重启键”，总能带来新的灵感和能量。
 - I collect calm moments, then turn them into focused work.  
   我会收集平静的时刻，再把它们转化成专注的创造力。
