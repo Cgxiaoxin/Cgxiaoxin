@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="Snake placeholder">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#8b949e" font-family="system-ui,Segoe UI,sans-serif" font-size="15">
-    Snake animation placeholder
-  </text>
-  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-family="system-ui,Segoe UI,sans-serif" font-size="13">
-    Run: Actions ’ Generate Snake Animation ’ Run workflow
-  </text>
-</svg>

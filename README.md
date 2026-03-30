@@ -43,14 +43,6 @@ I build clean and useful things with code.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cgxiaoxin&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-### Snake Game / 贪吃蛇进行中
-
-<p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/main/assets/github-contribution-grid-snake.svg" />
-</p>
-
-若首次不显示：打开本仓库 **Actions** → **Generate Snake Animation** → **Run workflow** 手动运行一次，生成 `assets/github-contribution-grid-snake.svg` 后即可。
-
 ---
 
 ### Contact / 联系方式
