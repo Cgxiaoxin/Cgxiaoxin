@@ -46,12 +46,10 @@ I build clean and useful things with code.
 ### Snake Game / 贪吃蛇进行中
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/output/snake.svg" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Cgxiaoxin/Cgxiaoxin/main/assets/github-contribution-grid-snake.svg" />
 </p>
+
+若首次不显示：打开本仓库 **Actions** → **Generate Snake Animation** → **Run workflow** 手动运行一次，生成 `assets/github-contribution-grid-snake.svg` 后即可。
 
 ---
 
