@@ -15,14 +15,6 @@ I build clean and useful things with code.
 
 ---
 
-
-### Contact / 联系方式
-
-- GitHub: [https://github.com/Cgxiaoxin](https://github.com/Cgxiaoxin)
-- Email: 178176916@qq.com
-
----
-
 ### Fun Facts / 有趣事实
 
 - Enjoy swimming, playing various ball games, and exploring the city on foot.  
@@ -31,3 +23,10 @@ I build clean and useful things with code.
   大海是我最好的“重启键”，总能带来新的灵感和能量。
 - I collect calm moments, then turn them into focused work.  
   我会收集平静的时刻，再把它们转化成专注的创造力。
+
+---
+
+### Contact / 联系方式
+
+- GitHub: [https://github.com/Cgxiaoxin](https://github.com/Cgxiaoxin)
+- Email: 178176916@qq.com
