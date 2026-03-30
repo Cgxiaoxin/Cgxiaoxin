@@ -26,8 +26,14 @@ I build clean and useful things with code.
 
 ### GitHub Stats / 数据卡片
 
+> ⚠️ 这个 GitHub 数据卡片加载不出来啦！  
+> 数据服务可能失效了，或者被限制访问了。  
+> 如果你知道如何修复，可以提个 issue 或 PR 哈～
+
+<!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cgxiaoxin&show_icons=true&hide_border=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cgxiaoxin&layout=compact&hide_border=true&theme=transparent)
+-->
 
 ---
 
